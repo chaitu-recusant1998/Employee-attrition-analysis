@@ -128,9 +128,10 @@
 
 ## 📁 Files in This Repository
 
-- `employee_attrition_analysis.xlsx` – Cleaned dataset and initial EDA
+- `IBM HR Analytics Employee Attrition & Performance_ ML _ FA _ DA projects.pdf` – problem statement
+- `employee_attrition_cleaned.xlsx` – Cleaned dataset and initial EDA
 - `powerbi_dashboard.pbix` – Interactive dashboard
-- `attrition_wireframe.png` – Wireframe design layout
+- `Screenshot 2025-05-06 172141.png` – Wireframe design layout
 - `README.md` – Project overview and next steps
 
 ---
